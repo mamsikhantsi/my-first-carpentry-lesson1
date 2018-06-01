@@ -13,7 +13,7 @@ keypoints:
 - "You use `![Legend](fig/file.jpg)`to insert a figure"
 ---
 
-{% include links.md %}
+
 Apples
 Oranges
 Bananas
@@ -52,3 +52,6 @@ you must start the nested list on the same column as the item
    - wine
  - dessert
    - pudding
+
+{% include links.md %}
+
