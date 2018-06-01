@@ -1,6 +1,6 @@
 ---
 title: Setup
 ---
-FIXME
+INSTALL R
 
 {% include links.md %}
