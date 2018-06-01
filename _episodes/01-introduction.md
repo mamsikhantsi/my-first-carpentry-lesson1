@@ -1,13 +1,19 @@
 ---
 title: "Introduction"
-teaching: 0
-exercises: 0
+teaching: 60
+exercises: 10
 questions:
-- "Key question"
+- "what is markdown"
+-"How do i insert a figure"
 objectives:
-- "First objective."
+- "Know what a markdown is."
+- "Know how to insert figure."
 keypoints:
-- "First key point."
+- "Markdown is a markup language that can be converted to HTML"
+- "You use `![Legend](fig/file.jpg)`to insert a figure"
 ---
 
 {% include links.md %}
+Apples
+Oranges
+Bananas
